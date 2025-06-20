@@ -1,50 +1,32 @@
 # Hi, I'm Nischal Kashyap
 
-I'm a Computer Science Engineer with a deep interest in building intelligent systems that solve real-world problems at scale. My work spans applied AI, full-stack development, and systems engineering, with a focus on creating tools that are both powerful and intuitive.
+I'm a Computer Science Engineer passionate about building intelligent systems that solve real-world problems. My work blends applied AI, full-stack development, and systems engineering—always focused on creating tools that are intuitive, scalable, and impactful.
 
-Currently, I'm an AI Engineer Intern at Aimplify Technologies, where I designed and deployed a production-ready, full-stack AI analytics platform. Before that, I interned at Graymatics, working on deep learning models for video surveillance and semantic segmentation.
+Recently, I designed and deployed a production-ready AI analytics platform using Langchain, FastAPI, MySQL, and React that enabled users to analyze datasets through natural language. I’ve also developed deep learning models for tasks like semantic segmentation and helmet detection, using frameworks like MMSegmentation and YOLOv8.
 
-I enjoy taking ideas from concept to production. Whether it's building data agents that turn CSVs into conversation, or creating calendar-integrated study planners, I care about delivering systems that make life easier, smarter, and more efficient.
+From backend systems and API orchestration to frontend interfaces and ML pipelines, I enjoy taking projects from concept to execution with clarity and purpose.
 
-## 🚀 Highlights
+## What I Work With
 
-- **AI-Powered Platforms**: Architected and deployed Langchain-based data analysis systems that let users interact with their datasets using natural language, delivering insights through visualizations.
-- **Computer Vision & Deep Learning**: Built and optimized deep learning pipelines for object detection and semantic segmentation using YOLOv8, DeepLabv3+, and MMSegmentation.
-- **Full-Stack Engineering**: From REST APIs with FastAPI and SQLAlchemy to React frontends and MySQL backends, I enjoy building across the stack to deliver seamless user experiences.
-- **Applied Research Projects**: Developed tools for crowd density analysis, plagiarism detection, music genre classification, and stock market prediction.
+- **Languages & Frameworks**: Python, JavaScript, TypeScript, C++, Java, Flask, FastAPI, Django, React  
+- **ML & AI Tools**: PyTorch, OpenCV, Scikit-learn, YOLO, MMSegmentation, Langchain  
+- **Databases & Infrastructure**: SQLAlchemy, MySQL, Jupyter, Google APIs, OAuth2, Git
 
-## 🧠 What I’m Good At
+## Interests
 
-- **Languages & Frameworks**: Python, JavaScript, TypeScript, C++, Java, Flask, FastAPI, Django, React
-- **Machine Learning & Deep Learning**: PyTorch, OpenCV, Scikit-learn, YOLO, MMSegmentation, Langchain
-- **Tools & Infrastructure**: Git, SQLAlchemy, MySQL, Jupyter, Google APIs, OAuth2, Docker (familiar)
-- **Problem Solving**: Hackathon winner, passionate about building things that work and scale
+- Building intelligent interfaces between humans and data  
+- Applied machine learning and deep learning in production  
+- Clean code, thoughtful architecture, and systems that scale
 
-## 📂 Featured Projects
+## Let’s Connect
 
-- **[Data Analytics Agent](https://github.com/nischalkashyap56/Data-Analytics-Aimplify)**  
-  Chat with your CSVs using natural language queries and receive visual analytics via a Langchain-powered backend.
-
-- **[Study Planner App](https://github.com/nischalkashyap56/Study-Planner-App)**  
-  Personalized study plans with Google Calendar integration to help students stay organized.
-
-- **[Music Genre Classifier](https://github.com/nischalkashyap56/Music-Genre-Classifier)**  
-  Audio feature-based genre prediction using MFCCs, tempo, and spectral attributes.
-
-- **[Stock Market Predictor](https://github.com/nischalkashyap56/Stock-Market-Predictor)**  
-  A simple ML model to predict buy/sell/hold strategies using stock history data.
-
-- **[Capstone Management System](https://github.com/nischalkashyap56/Capstone-Management-System)**  
-  A full-featured academic project manager with MySQL and Flask.
-
-## 📫 Get in Touch
-
-I'm always open to interesting conversations, collaborations, or opportunities to build impactful systems.  
-Let’s connect: [LinkedIn](https://www.linkedin.com/in/nischal-kashyap) | [Email](mailto:nischalkashyap8266@gmail.com)
+If you're working on something exciting or want to collaborate, feel free to reach out.  
+[LinkedIn](https://www.linkedin.com/in/nischalkashyap56) | [Email](mailto:nischalkashyap56@gmail.com)
 
 ---
 
-If you’re curious about anything I've built or want to chat about AI, systems design, or engineering leadership, feel free to reach out. I love working on things that matter, with people who care.
+I enjoy working on things that matter, with people who care.
+
 
 <!--
 **nischalkashyap56/nischalkashyap56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
