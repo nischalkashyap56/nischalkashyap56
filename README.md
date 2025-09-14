@@ -1,6 +1,6 @@
 # Hi, I'm Nischal Kashyap
 
-I'm a Computer Science Engineer passionate about building intelligent systems that solve real-world problems. My work blends applied AI, full-stack development, and systems engineering—always focused on creating tools that are intuitive, scalable, and impactful.
+I'm a Computer Science Engineer passionate about building intelligent systems that solve real-world problems. My work blends applied AI, full-stack development, and systems engineering, always focused on creating tools that are intuitive, scalable, and impactful.
 
 Recently, I designed and deployed a production-ready AI analytics platform using Langchain, FastAPI, MySQL, and React that enabled users to analyze datasets through natural language. I’ve also developed deep learning models for tasks like semantic segmentation and helmet detection, using frameworks like MMSegmentation and YOLOv8.
 
@@ -8,9 +8,9 @@ From backend systems and API orchestration to frontend interfaces and ML pipelin
 
 ## What I Work With
 
-- **Languages & Frameworks**: Python, JavaScript, TypeScript, C++, Java, Flask, FastAPI, Django, React  
+- **Languages & Frameworks**: Python, JavaScript, TypeScript, Java, Flask, FastAPI, Django, Spring, Spring Boot, React, Vue.js
 - **ML & AI Tools**: PyTorch, OpenCV, Scikit-learn, YOLO, MMSegmentation, Langchain  
-- **Databases & Infrastructure**: SQLAlchemy, MySQL, Jupyter, Google APIs, OAuth2, Git
+- **Databases & Infrastructure**: SQLAlchemy, MySQL, PostgreSQL, OAuth2, Git, Docker
 
 ## Interests
 
