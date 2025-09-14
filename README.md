@@ -21,12 +21,7 @@ From backend systems and API orchestration to frontend interfaces and ML pipelin
 ## Let’s Connect
 
 If you're working on something exciting or want to collaborate, feel free to reach out.  
-[LinkedIn](https://www.linkedin.com/in/nischalkashyap56) | [Email](mailto:nischalkashyap56@gmail.com)
-
----
-
-I enjoy working on things that matter, with people who care.
-
+[LinkedIn](https://www.linkedin.com/in/nischalkashyap56) | [Email](mailto:nischalkashyap56@gmail.com) | [Website]
 
 <!--
 **nischalkashyap56/nischalkashyap56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
