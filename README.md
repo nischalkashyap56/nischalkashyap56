@@ -2,13 +2,13 @@
 
 I'm a Computer Science Engineer passionate about building intelligent systems and scalable backend platforms. My work blends backend engineering, applied AI, and (sometimes) full-stack development, always focused on creating practical solutions that solve real-world problems.
 
-## 🚀 About Me
+## About Me
 - Software Engineer 1 at **Zeta Bengaluru**
 - Co-Founder of **Talvio**, an AI interviewer platform
 - Experienced in developing production-ready applications with **Java, Python, Spring Boot, Flask, FastAPI, PostgreSQL, and Docker**
 - Strong foundation in **Data Structures, Algorithms, Operating Systems, and Computer Networks**
 
-## 💻 Technical Skills
+## Technical Skills
 - Languages: Python, Java
 - Back end: Spring Boot, Flask, FastAPI
 - Databases: PostgreSQL, MySQL, Neon DB, MongoDB
@@ -17,7 +17,7 @@ I'm a Computer Science Engineer passionate about building intelligent systems an
 - Front end: Vue.js, React
 - Tools: Git, Bitbucket, Pandas, JPA, JDBC, JWT
 
-## 📫 Let's Connect
+## Let's Connect
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/nischalkashyap)
 - **Email:** [Email](mailto:nischalkashyap56@gmail.com) 
 - **Website:** [Website](https://github.com/nischalkashyap)
