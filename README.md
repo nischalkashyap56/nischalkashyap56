@@ -1,39 +1,29 @@
-# Hi, I'm Nischal Kashyap
+# Hi, I'm Nischal 👋
 
-I'm a Computer Science Engineer passionate about building intelligent systems that solve real-world problems. My work blends applied AI, full-stack development, and systems engineering, always focused on creating tools that are intuitive, scalable, and impactful.
+I'm a Computer Science Engineer passionate about building intelligent systems and scalable backend platforms. My work blends backend engineering, applied AI, and (sometimes) full-stack development, always focused on creating practical solutions that solve real-world problems.
 
-Recently, I designed and deployed a production-ready AI analytics platform using Langchain, FastAPI, MySQL, and React that enabled users to analyze datasets through natural language. I’ve also developed deep learning models for tasks like semantic segmentation and helmet detection, using frameworks like MMSegmentation and YOLOv8.
+## 🚀 About Me
+- Software Engineer 1 at **Zeta Bengaluru**
+- Co-Founder of **Talvio**, an AI interviewer platform
+- Experienced in developing production-ready applications with **Java, Python, Spring Boot, Flask, FastAPI, PostgreSQL, and Docker**
+- Strong foundation in **Data Structures, Algorithms, Operating Systems, and Computer Networks**
 
-From backend systems and API orchestration to frontend interfaces and ML pipelines, I enjoy taking projects from concept to execution with clarity and purpose.
+## 💻 Technical Skills
+- Languages: Python, Java
+- Back end: Spring Boot, Flask, FastAPI
+- Databases: PostgreSQL, MySQL, Neon DB, MongoDB
+- AI and CV: TensorFlow, OpenCV, MMSegmentation, YOLOv8, LangChain
+- DevOps and infra: Docker, Render, Confluent Kafka, Docker images
+- Front end: Vue.js, React
+- Tools: Git, Bitbucket, Pandas, JPA, JDBC, JWT
 
-## What I Work With
-
-- **Languages & Frameworks**: Python, JavaScript, TypeScript, Java, Flask, FastAPI, Django, Spring, Spring Boot, React, Vue.js
-- **ML & AI Tools**: PyTorch, OpenCV, Scikit-learn, YOLO, MMSegmentation, Langchain  
-- **Databases & Infrastructure**: SQLAlchemy, MySQL, PostgreSQL, OAuth2, Git, Docker
-
-## Interests
-
-- Building intelligent interfaces between humans and data  
-- Applied machine learning and deep learning in production  
-- Clean code, thoughtful architecture, and systems that scale
-
-## Let’s Connect
-
-If you're working on something exciting or want to collaborate, feel free to reach out.  
-[LinkedIn](https://www.linkedin.com/in/nischalkashyap56) | [Email](mailto:nischalkashyap56@gmail.com) | [Website]
+## 📫 Let's Connect
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/nischalkashyap)
+- **Email:** [Email](mailto:nischalkashyap56@gmail.com) 
+- **Website:** [Website](https://github.com/nischalkashyap)
 
 <!--
 **nischalkashyap56/nischalkashyap56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-->
 - ⚡ Fun fact: ...
 -->
