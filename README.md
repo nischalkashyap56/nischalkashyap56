@@ -20,7 +20,7 @@ I'm a Computer Science Engineer passionate about building intelligent systems an
 ## Let's Connect
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/nischal-kashyap)
 - **Email:** [Email](mailto:nischalkashyap826@gmail.com) 
-- **Website:** [Website](https://github.com/nischalkashyap)
+- **Website:** [Website](https://www.nischal-kashyap.xyz)
 
 <!--
 **nischalkashyap56/nischalkashyap56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
