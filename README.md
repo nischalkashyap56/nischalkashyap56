@@ -18,8 +18,8 @@ I'm a Computer Science Engineer passionate about building intelligent systems an
 - Tools: Git, Bitbucket, Pandas, JPA, JDBC, JWT
 
 ## Let's Connect
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/nischalkashyap)
-- **Email:** [Email](mailto:nischalkashyap56@gmail.com) 
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/nischal-kashyap)
+- **Email:** [Email](mailto:nischalkashyap826@gmail.com) 
 - **Website:** [Website](https://github.com/nischalkashyap)
 
 <!--
