@@ -18,9 +18,7 @@ I'm a Computer Science Engineer passionate about building intelligent systems an
 - Tools: Git, Bitbucket, Pandas, JPA, JDBC, JWT
 
 ## Let's Connect
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/nischal-kashyap)
-- **Email:** [Email](mailto:nischalkashyap826@gmail.com) 
-- **Website:** [Website](https://www.nischal-kashyap.xyz)
+[LinkedIn](https://www.linkedin.com/in/nischal-kashyap) | [Email](mailto:nischalkashyap826@gmail.com) | [Website](https://www.nischal-kashyap.xyz)
 
 <!--
 **nischalkashyap56/nischalkashyap56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
